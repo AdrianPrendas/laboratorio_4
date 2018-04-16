@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\a6r1a\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\MDIL\Memory.UWP.mdilexe"
+"/i:G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\Native\Memory.UWP.exe"
+"/pdbAltPath:G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\bin\x86\Release\ilc"
+"/res:G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

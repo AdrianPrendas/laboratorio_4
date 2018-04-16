@@ -1,0 +1,1 @@
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\Memory.UWP.csproj;x86

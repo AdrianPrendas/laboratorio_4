@@ -1,0 +1,15 @@
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Memory.deps.json
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Memory.dll
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Memory.pdb
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Mono.Android.dll
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Mono.Android.pdb
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\bin\Release\netstandard2.0\Mono.Android.xml
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.csproj.CoreCompileInputs.cache
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.App.xaml.g.cs
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.MainPage.xaml.g.cs
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.AssemblyInfoInputs.cache
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.AssemblyInfo.cs
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.csproj.CopyComplete
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.dll
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.pdb
+G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory\obj\Release\netstandard2.0\Memory.csprojResolveAssemblyReference.cache

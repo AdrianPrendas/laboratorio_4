@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Memory"
+             x:Class="Memory.MainPage">
+
+    <ContentPage.Content>
+
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+            <Label FontAttributes="Bold" FontSize="30" Text="Juego  de  Memoria"/>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+
+                <Button BackgroundColor="#959494" Grid.Row="0" Grid.Column="0" Clicked="buttonHandler" AutomationId="00" x:Name="b00"/>
+                <Button BackgroundColor="#959494" Grid.Row="0" Grid.Column="1" Clicked="buttonHandler" AutomationId="01" x:Name="b01"/>
+                <Button BackgroundColor="#959494" Grid.Row="0" Grid.Column="2" Clicked="buttonHandler" AutomationId="02" x:Name="b02"/>
+                <Button BackgroundColor="#959494" Grid.Row="0" Grid.Column="3" Clicked="buttonHandler" AutomationId="03" x:Name="b03"/>
+                <Button BackgroundColor="#959494" Grid.Row="0" Grid.Column="4" Clicked="buttonHandler" AutomationId="04" x:Name="b04"/>
+
+                <Button BackgroundColor="#959494" Grid.Row="1" Grid.Column="0" Clicked="buttonHandler" AutomationId="10" x:Name="b10"/>
+                <Button BackgroundColor="#959494" Grid.Row="1" Grid.Column="1" Clicked="buttonHandler" AutomationId="11" x:Name="b11"/>
+                <Button BackgroundColor="#959494" Grid.Row="1" Grid.Column="2" Clicked="buttonHandler" AutomationId="12" x:Name="b12"/>
+                <Button BackgroundColor="#959494" Grid.Row="1" Grid.Column="3" Clicked="buttonHandler" AutomationId="13" x:Name="b13"/>
+                <Button BackgroundColor="#959494" Grid.Row="1" Grid.Column="4" Clicked="buttonHandler" AutomationId="14" x:Name="b14"/>
+
+                <Button BackgroundColor="#959494" Grid.Row="2" Grid.Column="0" Clicked="buttonHandler" AutomationId="20" x:Name="b20"/>
+                <Button BackgroundColor="#959494" Grid.Row="2" Grid.Column="1" Clicked="buttonHandler" AutomationId="21" x:Name="b21"/>
+                <Button BackgroundColor="#959494" Grid.Row="2" Grid.Column="2" Clicked="buttonHandler" AutomationId="22" x:Name="b22"/>
+                <Button BackgroundColor="#959494" Grid.Row="2" Grid.Column="3" Clicked="buttonHandler" AutomationId="23" x:Name="b23"/>
+                <Button BackgroundColor="#959494" Grid.Row="2" Grid.Column="4" Clicked="buttonHandler" AutomationId="24" x:Name="b24"/>
+
+                <Button BackgroundColor="#959494" Grid.Row="3" Grid.Column="0" Clicked="buttonHandler" AutomationId="30" x:Name="b30"/>
+                <Button BackgroundColor="#959494" Grid.Row="3" Grid.Column="1" Clicked="buttonHandler" AutomationId="31" x:Name="b31"/>
+                <Button BackgroundColor="#959494" Grid.Row="3" Grid.Column="2" Clicked="buttonHandler" AutomationId="32" x:Name="b32"/>
+                <Button BackgroundColor="#959494" Grid.Row="3" Grid.Column="3" Clicked="buttonHandler" AutomationId="33" x:Name="b33"/>
+                <Button BackgroundColor="#959494" Grid.Row="3" Grid.Column="4" Clicked="buttonHandler" AutomationId="34" x:Name="b34"/>
+
+                <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="0" Clicked="buttonHandler" AutomationId="40" x:Name="b40"/>
+                <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="1" Clicked="buttonHandler" AutomationId="41" x:Name="b41"/>
+                <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="2" Clicked="buttonHandler" AutomationId="42" x:Name="b42"/>
+                <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="3" Clicked="buttonHandler" AutomationId="43" x:Name="b43"/>
+                <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="4" Clicked="buttonHandler" AutomationId="44" x:Name="b44"/>
+
+
+                <!--<Label Text="A" Grid.Row="0" Grid.Column="0" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>-->
+
+
+            </Grid>
+
+            <Label FontAttributes="Bold" FontSize="Small" Text="Adrian Prendas" x:Name="etiqueta"/>
+            <Button BackgroundColor="#959494" Grid.Row="4" Grid.Column="4" Clicked="restart" AutomationId="44" x:Name="reiniciar" Text="Reiniciar" IsVisible="False"/>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>

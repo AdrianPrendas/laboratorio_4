@@ -1,0 +1,12 @@
+/ref:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\a6r1a\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Private\\"
+/ref:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\in"
+/ref:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\a6r1a\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\csc"
+/out:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\Memory.UWP.Sg"
+"@G:\Carrera\Ciclo I 2018\Moviles\Lab3\Memory\Memory\Memory.UWP\obj\x86\Release\ilc\intermediate\Memory.UWP.Sg\ComputedSerializationInput.txt"
